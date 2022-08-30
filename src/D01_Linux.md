@@ -129,6 +129,7 @@
 * Сменил пользователя командой `su - darrpama2`
 * Изменил hostname `sudo vi /etc/hostname`
 * Посмотрел результат `cat /etc/hostname`
+
 ![Результат смены hostname](images/P5-1.png)
 
 <br>
